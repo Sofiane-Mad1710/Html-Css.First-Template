@@ -8,10 +8,10 @@ html{
   box-sizing: border-box;   
 }
 :root{
- --main-color:#10cab7;
- --transition:0.3s;
- --main-scale:1.2;
- --secondary-color:#2c4755;
+  --main-color:#10cab7;
+  --transition:0.3s;
+  --main-scale:1.2;
+  --secondary-color:#2c4755;
 }
 .container{
   padding-left: 15px;
